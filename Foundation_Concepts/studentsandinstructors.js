@@ -12,6 +12,7 @@ function printNames(){
 }
 }
 printNames2();
+
 var students = [ 
     {first_name:  '1 - Michael', last_name : 'Jordan - 13'},
     {first_name : '2 - John', last_name : 'Rosales'},
